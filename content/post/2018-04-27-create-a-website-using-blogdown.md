@@ -1,7 +1,7 @@
 ---
 title: Create a Website Using Blogdown
 author: Guiyuan Lei
-date: '27th April 2018'
+date: '2018-04-27
 categories:
   - R
 tags:
