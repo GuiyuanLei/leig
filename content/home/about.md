@@ -14,7 +14,7 @@ weight = 5
     "R/Shiny/Markdown",
     "Machine Learning",
     "Biomarkers",
-    "Real Word Data"
+    "Real World Data"
   ]
 
 # List your qualifications (such as academic degrees).
