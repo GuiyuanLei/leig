@@ -14,7 +14,7 @@ authors = ["Elizabeth Punnoose", "Franklin V. Peale Jr.", "Guiyuan Lei", "Thomas
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = "1"
 
 # Publication name and optional abbreviated version.
 publication = "In *Blood*"

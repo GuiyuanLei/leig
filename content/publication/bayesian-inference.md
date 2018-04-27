@@ -14,7 +14,7 @@ authors = ["Guiyuan Lei", "Richard J. Boys", "Colin S. Gillespie", "Amanda Green
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = "2"
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Biometrics & Biostatistics*"
@@ -34,9 +34,3 @@ math = true
 
 # Does the content use source code highlighting?
 highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bn4var.jpg.jpg"
-caption = "My caption :smile:"
