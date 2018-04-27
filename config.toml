@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://leig.netlify.com/"
 
 # Title of your site
 title = "Guiyuan Lei"
@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/GuiyuanLei"
+    link = "https://github.com/GuiyuanLei/"
 
 
 # Navigation Links
