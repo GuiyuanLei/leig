@@ -32,7 +32,7 @@ image_preview = ""
 selected = false
 
 # Links (optional).
-url_source = "https://learningcenter.ehaweb.org/eha/2016/21st/133204/grzegorz.terszowski.association.between.kir.hla.genotype.and.outcome.in.the.html?f=menu=6*ce_id=968*ot_id=12143*media=2"
+url_source = "https://learningcenter.ehaweb.org/eha/2016/21st/133204/"
 
 # Does the content use math formatting?
 math = true

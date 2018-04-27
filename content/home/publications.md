@@ -12,7 +12,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # List format.
 #   0 = Simple
@@ -32,7 +32,10 @@ list_format = 3
 #  6: Book chapter
 publication_type = "-1"
 
+# Show publication details (such as abstract)? (true/false)
+detailed_list = false
+
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
 

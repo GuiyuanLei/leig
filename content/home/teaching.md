@@ -3,11 +3,11 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = active
+active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Training"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,4 +22,5 @@ I provide training for my colleagues:
 - Introduction to Github
 - Statistics for Non-Statistician
 - Working with R in the BEE (Biometrics Exploratory Environment)
-- R Shiny app 'Predictive Probability' and 'Data Driven Conditional Probability'
+- R Shiny app "Predictive Probability" and "Data Driven Conditional Probability" (DDCP)
+
