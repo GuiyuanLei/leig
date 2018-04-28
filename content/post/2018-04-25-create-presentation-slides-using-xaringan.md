@@ -1,7 +1,9 @@
 ---
 title: Create Presentation Slides using xaringan through R Markdown
 author: Guiyuan Lei
-date: 2018-04-25T00:00:00
+date: 2018-04-25
+publishdate: 2018-04-26
+lastmod: 2018-04-28
 categories:
   - R
 tags:
