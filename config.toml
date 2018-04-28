@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://leig.netlify.com/"
+baseurl = "https://glei.netlify.com/"
 
 # Title of your site
 title = "Guiyuan Lei"
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:guiyuan.lei@roche.com"
+    link = "mailto:guiyuanlei@gmail.com"
 
   [[params.social]]
     icon = "github"
