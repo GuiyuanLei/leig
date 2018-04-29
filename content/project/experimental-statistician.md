@@ -6,7 +6,7 @@ date = "2011-01-01"
 title = "Experimental Statistician, Product Development, Roche, UK (2011)"
 
 # Project summary to display on homepage.
-summary = "Experimental Statistician's work focused on PHC (Personalized Healthcare) projects. I have conducted Meta-analysis for serotype biomarker. I have also implemented the first Comparative benefit risk (CBR) analysis within company for regulatory filing."
+summary = "Experimental Statistician's work focused on PHC (Personalized Healthcare) aspect, but also with opportunity to work on other areas. I have conducted Meta-analysis for serotype biomarker. I have also implemented the first Comparative benefit risk (CBR) analysis within company for regulatory filing."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -28,9 +28,9 @@ caption = ""
 
 +++
 
-Worked closely with BEMLs (Biomarker Experimental Medicine Leader) on PHC projects. Examples of activities include:
+Experimental Statistician's work focused on PHC (Personalized Healthcare) aspect, but also with opportunity to work on other areas. Examples of activities include:
 
-* Implemented the first Comparative benefit risk (CBR) analysis within company for regulatory filing.
 * Conducted Meta-analysis for serotype biomarker
+* Implemented the first Comparative benefit risk (CBR) analysis within company for regulatory filing.
 * Contributed to European Medicines Agency (EMA) Innovative Medicines Initiative (IMI).
-* Held ‘R clinic’ to Welwyn Statisticians with R programming.
+* Held ‘R clinic’ to help statisticians to learn R programming.
