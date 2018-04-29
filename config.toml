@@ -3,7 +3,9 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#baseurl = "https://glei.rbind.io/"
 baseurl = "https://glei.netlify.com/"
+
 
 # Title of your site
 title = "Guiyuan Lei"
@@ -258,7 +260,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Experience"
   url = "#projects"
   weight = 4
 
