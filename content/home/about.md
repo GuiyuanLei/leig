@@ -38,3 +38,5 @@ I am a statistican working with a pharmaceutical/healthcare company. Because I a
 
 Before I joined industry, I have worked in academia as postdoc/research associate for five years in Sweden and UK. My research was mainly in Bayesian Inference. My undergraduate degree was "Computational Mathematics and Applied software", I have been enthusiasm in programming and even got certificate in C programming. Now I use R most of time. So in addition to daily drug developement work, I provide statistics/programming training to my colleagues.
 
+**Disclaimer**: The views represented here are my own and do not represent the views of Roche UK.
+
