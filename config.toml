@@ -4,8 +4,10 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "https://glei.rbind.io/"
-baseurl = "https://glei.netlify.com/"
+#baseurl = "https://glei.netlify.com/"
 
+baseurl = "/"
+relativeurls = true
 
 # Title of your site
 title = "A Cancer Survivor's Professional Blog"
