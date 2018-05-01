@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2003-08-30"
+date = "2008-12-31"
 
 # Project title.
 title = "Academia Experience (2003 – 2008)"
