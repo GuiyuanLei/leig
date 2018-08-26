@@ -17,6 +17,7 @@ weight = 60
 
 I provide training for my colleagues:
 
+- Introduction to Machine Learning with XGBoost ([Slides](https://guiyuanlei.github.io/xgboost/))
 - R Markdown
 - Bayesian Methods
 - Introduction to Github
